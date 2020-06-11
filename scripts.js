@@ -93,146 +93,146 @@ function keyPush(event){
         case "5":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 5;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 5;
-                                break;
-                            }
+                    mathZone.innerHTML = 5;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 5;
+                    break;
+                }
                         }else{break;};
         case "6":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 6;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 6;
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = 6;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 6;
+                    break;
+                }
+            }else{break;};
                 
 
         case "7":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 7;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 7;
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = 7;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 7;
+                    break;
+                }
+            }else{break;};
 
 
         case "8":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 8;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 8;
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = 8;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 8;
+                    break;
+                }
+            }else{break;};
 
         case "9":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 9;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 9;
-                                break;
-                            }
-                        }else{};
+                    mathZone.innerHTML = 9;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 9;
+                    break;
+                }
+            }else{};
 
         case "0":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = 0;
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += 0;
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = 0;
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += 0;
+                    break;
+                }
+            }else{break;};
 
         case ".":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = ".";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += ".";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = ".";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += ".";
+                    break;
+                }
+            }else{break;};
 
         case "+":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = "+";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += "+";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = "+";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += "+";
+                    break;
+                }
+            }else{break;};
         case "-":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = "-";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += "-";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = "-";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += "-";
+                    break;
+                }
+            }else{break;};
 
         case "/":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = "/";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += "/";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = "/";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += "/";
+                    break;
+                }
+            }else{break;};
 
         case "*":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = "*";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += "*";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = "*";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += "*";
+                    break;
+                }
+            }else{break;};
 
         case "%":
             if (mathZone.innerHTML.length < 27){
                 if (mathZone.innerHTML == "0"){
-                                mathZone.innerHTML = "%";
-                                break;
-                            }
-                            else { 
-                                mathZone.innerHTML += "%";
-                                break;
-                            }
-                        }else{break;};
+                    mathZone.innerHTML = "%";
+                    break;
+                }
+                else { 
+                    mathZone.innerHTML += "%";
+                    break;
+                }
+            }else{break;};
 
         case "Enter":
             {
